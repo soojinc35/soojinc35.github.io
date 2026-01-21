@@ -1,13 +1,17 @@
 ---
-layout: post
 title: "Amazon S3 Cost Optimization: Key Takeaways from AWS Summit Japan 2025 (AWS-05)"
 date: 2026-01-21
-categories: [aws, s3, cost-optimization]
-tags: [AWS, Amazon S3, FinOps, Cloud Architecture]
+categories:
+  - blog
+tags:
+  - AWS
+  - Amazon S3
+  - FinOps
+  - Cloud Architecture
 ---
 
-# Amazon S3 Cost Optimization  
-## Key Takeaways from AWS Summit Japan 2025 (AWS-05)
+Amazon S3 Cost Optimization  
+Key Takeaways from AWS Summit Japan 2025 (AWS-05)
 
 ---
 
